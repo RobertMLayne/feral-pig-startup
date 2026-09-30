@@ -33,7 +33,9 @@ Project-authored records follow `FeralPig_<Artifact>_v<major.minor>_<YYYYMMDD>.<
 
 ## Repository publication
 
-The two large MPEP ZIPs use Git LFS and share one content object. To obtain the actual archive bytes after cloning, use an installed Git LFS client and run `git lfs install`, then `git lfs pull`. The ingestion index records SHA-256 hashes of the original archive bytes, not the LFS pointer files. All other selected records use regular Git. LFS account capacity, upload and fresh-download verification are required before publication is reported complete.
+The two large MPEP ZIPs use Git LFS and share one content object. To obtain the actual archive bytes after cloning, use an installed Git LFS client and run `git lfs install`, then `git lfs pull`. The ingestion index records SHA-256 hashes of the original archive bytes, not the LFS pointer files. All other selected records use regular Git.
+
+Publication was verified on September 30, 2026: the initial public `main` commit is `d733c12750c296bb04d7d6e505d5649b6b88b520`. A fresh bare download and LFS fetch verified all 389 selected paths, including the actual 55,106,401-byte MPEP archive content. Both archive paths share SHA-256 `A91CB1A2231B8E66CA9F87300F663F897C4FF7C2C6174DD31D0A2A8DC058EFC5`. Published history contains no gitlinks or excluded local configuration. The current manifest records the evidence and its limits; later documentation commits retain this verified source snapshot.
 
 The user expressly authorized a public [GitHub repository](https://github.com/RobertMLayne/feral-pig-startup) containing all records and source, including unpublished invention drafts, inventor materials and historical logs. Git internals, disposable Python caches, and local `.codex/` and `.vscode/` configurations are excluded. Authorization is specific to this publication and does not establish attorney clearance, patentability, inventorship, ownership, regulatory permission or filing readiness.
 

@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://reference-suite.local/schemas/record-v1.json",
+  "title": "Reference Suite Record v1",
+  "type": "object",
+  "required": ["schema_version", "provider", "kind", "stable_id", "title", "source_url", "retrieval_url", "retrieved_at", "raw_sha256", "raw_path", "creators", "identifiers", "dates", "extras", "source_paths", "diagnostics", "attachments", "access_status", "rights"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "provider": {"type": "string"},
+    "kind": {"type": "string"},
+    "stable_id": {"type": "string"},
+    "title": {"type": "string"},
+    "source_url": {"type": "string"},
+    "retrieval_url": {"type": "string"},
+    "retrieved_at": {"type": "string", "format": "date-time"},
+    "raw_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "raw_path": {"type": "string"},
+    "creators": {"type": "array", "items": {"type": "string"}},
+    "identifiers": {"type": "object", "additionalProperties": {"type": "string"}},
+    "dates": {"type": "object", "additionalProperties": {"type": "string"}},
+    "abstract": {"type": "string"},
+    "extras": {"type": "object"},
+    "source_paths": {"type": "object"},
+    "diagnostics": {"type": "array", "items": {"type": "string"}},
+    "attachments": {"type": "array", "items": {"type": "object"}},
+    "access_status": {"enum": ["metadata_only", "acquired", "restricted", "failed"]},
+    "rights": {"type": "object"},
+    "citation": {"type": "object", "additionalProperties": {"type": "string"}}
+  }
+}

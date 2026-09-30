@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Professionals at Layne Intellectual Property." />
+    <title>Professionals | Layne Intellectual Property</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body data-page="professionals">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header solid" data-header>
+      <a class="brand" href="/" aria-label="Layne Intellectual Property home"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span><span><b>LAYNE</b><small>INTELLECTUAL PROPERTY</small></span></a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+      <nav class="site-nav" id="site-nav" aria-label="Primary navigation"><a href="/#capabilities">Capabilities</a><a class="active" href="/professionals.html">Professionals</a><a href="/insights.html">Insights</a><a href="/systems.html">Systems</a><button class="nav-cta" type="button" data-consultation>Request a consultation</button></nav>
+    </header>
+    <main id="main" class="inner-main">
+      <section class="page-hero">
+        <p class="eyebrow reveal">People / technical disciplines / perspective</p>
+        <h1 class="reveal">Professionals</h1>
+        <p class="page-lede reveal">A deliberately scalable directory for the patent agents, attorneys, scientists, engineers, analysts, and collaborators who may contribute to future work.</p>
+      </section>
+      <section class="directory section-pad">
+        <div class="directory-tools reveal">
+          <label><span>Search by name or expertise</span><input type="search" placeholder="e.g., software, pharmaceuticals" data-professional-search></label>
+          <label><span>Discipline</span><select data-professional-filter><option value="all">All disciplines</option><option value="hardware">Hardware</option><option value="software">Software & AI</option><option value="life-sciences">Life sciences</option><option value="patent-systems">Patent systems</option></select></label>
+        </div>
+        <p class="directory-count reveal"><span data-result-count>1</span> professional</p>
+        <div class="professional-grid" data-professional-grid>
+          <article class="professional-card reveal" data-name="robert m. layne" data-tags="hardware software ai life-sciences pharmaceuticals patent-systems research evidence">
+            <div class="portrait-placeholder" aria-label="Portrait placeholder for Robert M. Layne"><span>RML</span><i></i></div>
+            <div class="professional-info">
+              <p class="card-label">Patent Agent · Technical Lead</p>
+              <h2>Robert M. Layne, Ph.D.</h2>
+              <p>Combines doctoral-level scientific analysis, engineering practice, and reproducible research systems to address technically demanding patent matters.</p>
+              <div class="tag-row"><span>Hardware</span><span>Software & AI</span><span>Life sciences</span><span>Evidence systems</span></div>
+              <button class="text-link dark" type="button" data-profile-toggle aria-expanded="false">View profile <span aria-hidden="true">↓</span></button>
+              <div class="profile-detail" data-profile-detail hidden>
+                <div><b>Focus</b><p>Patent strategy, technical analysis, prior-art research, claim architecture, and workflow design.</p></div>
+                <div><b>Approach</b><p>Traceable sources, explicit assumptions, versioned work product, and reviewable evidence chains.</p></div>
+                <p class="placeholder-note">Biography, admissions, education details, representative matters, publications, and direct contact information will be verified before public launch.</p>
+              </div>
+            </div>
+          </article>
+        </div>
+        <div class="empty-state" data-empty-state hidden>No professionals match those filters.</div>
+      </section>
+      <section class="join-band">
+        <p class="section-number light">Directory architecture</p>
+        <h2>Ready to grow without redesign.</h2>
+        <p>Future profiles can be filtered by role, technical discipline, service, and location, with individual biography pages and related publications.</p>
+      </section>
+    </main>
+    <footer class="site-footer"><div class="footer-brand">LAYNE <span>INTELLECTUAL PROPERTY</span></div><p>Patent practice informed by science, engineering, and reproducible analysis.</p><div class="footer-links"><a href="/">Home</a><a href="/insights.html">Insights</a><a href="/systems.html">Systems</a></div><div class="footer-legal"><span>© <span data-year></span> Layne Intellectual Property</span><span>Information only; not legal advice.</span></div></footer>
+    <dialog class="consultation-dialog" data-dialog><button class="dialog-close" type="button" data-dialog-close aria-label="Close">×</button><p class="eyebrow">Consultation request</p><h2>Let’s define the question precisely.</h2><p>The direct contact channel will be connected before the public-domain launch. This private preview is ready for your preferred email address or scheduling link.</p><div class="dialog-notice"><b>Before sending materials</b><span>Contacting Layne Intellectual Property does not by itself create a professional relationship. Do not send confidential information until an engagement is confirmed.</span></div><button class="button button-primary" type="button" data-copy-brief>Copy consultation brief</button><small data-copy-status aria-live="polite"></small></dialog>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>

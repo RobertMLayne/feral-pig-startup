@@ -1,0 +1,11 @@
+{
+  "fetched_at": null,
+  "connection_status": "blocked",
+  "zones": [],
+  "errors": [
+    {
+      "operation": "Cloudflare API GET /zones for layneip.com and layneip.tech",
+      "message": "The Cloudflare MCP execute call returned: \"MCP tool call requires approval, but approval policy is never\". No zone data was fetched."
+    }
+  ]
+}

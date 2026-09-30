@@ -1,0 +1,8 @@
+export function escapeHtml(value='') {return String(value).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+export function normalize(value=''){return String(value).normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/&/g,' and ').replace(/[^a-z0-9]+/g,' ').trim();}
+export function matchesQuery(text,query){const t=normalize(text);return normalize(query).split(' ').filter(Boolean).every(term=>t.includes(term));}
+export function csvCell(value=''){let text=String(value);if(/^[\s]*[=+@-]/.test(text))text="'"+text;return '"'+text.replaceAll('"','""')+'"';}
+export function makeCsv(rows,keys){return [keys.map(csvCell).join(','),...rows.map(row=>keys.map(k=>csvCell(row[k]??'')).join(','))].join('\r\n');}
+export function makeBrief(values){return `LAYNE INTELLECTUAL PROPERTY — INITIAL INQUIRY\n\nName: ${values.name||''}\nEmail: ${values.email||''}\nOrganization: ${values.organization||''}\nService: ${values.service||''}\nTechnology: ${values.technology||''}\nKnown date or deadline: ${values.deadline||'Not specified'}\n\nNon-confidential summary:\n${values.summary||''}\n\nThis is an initial inquiry. Engagement and responsibility for deadlines require express confirmation.`;}
+export function emailLink(values){return 'mailto:robert@layneip.com?subject='+encodeURIComponent('Consultation inquiry: '+(values.service||'Patent services'))+'&body='+encodeURIComponent(makeBrief(values));}
+export function filterPublished(articles,mode){return articles.filter(a=>a.status==='published'||(mode==='private-review'&&a.status==='draft'));}

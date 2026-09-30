@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Reference Suite Intake</title>
+  <style>
+    body { font: 14px system-ui, sans-serif; width: 330px; padding: 14px; }
+    label { display: block; margin-top: 10px; }
+    input, select, button { width: 100%; box-sizing: border-box; padding: 7px; margin-top: 3px; }
+    button { margin-top: 12px; }
+    pre { white-space: pre-wrap; overflow-wrap: anywhere; max-height: 180px; overflow: auto; }
+  </style>
+</head>
+<body>
+  <h1>Reference Suite</h1>
+  <label>Local server token<input id="token" type="password" autocomplete="off"></label>
+  <label>Provider<select id="provider"><option>openalex</option><option>uspto</option><option>web</option></select></label>
+  <label>Operation<select id="operation"><option>lookup</option><option>search</option><option>application</option><option>documents</option><option>petition</option><option>bulk</option><option>ptab_trials</option><option>ptab_documents</option><option>ptab_decisions</option><option>ptab_appeals</option><option>ptab_interferences</option><option>get</option><option>capture</option><option>mirror</option></select></label>
+  <label>Identifier, query, or URL<input id="value"></label>
+  <label>Maximum results<input id="max-results" type="number" min="1" max="100" value="25"></label>
+  <label>Citation depth (OpenAlex lookup)<input id="citation-depth" type="number" min="0" max="1" value="0"></label>
+  <label>Mirror depth<input id="max-depth" type="number" min="0" max="3" value="1"></label>
+  <label><input id="download-files" type="checkbox" style="width:auto"> Download available files</label>
+  <label><input id="render-js" type="checkbox" style="width:auto"> Render JavaScript page</label>
+  <label><input id="render-pdf" type="checkbox" style="width:auto"> Save rendered PDF</label>
+  <label>Rendered content CSS selector (optional)<input id="content-selector" placeholder="main"></label>
+  <label>Allowed file or web hosts (comma separated)<input id="hosts" placeholder="example.org"></label>
+  <button id="preview">Preview plan</button>
+  <button id="run">Run acquisition</button>
+  <pre id="output" role="status"></pre>
+  <script src="popup.js"></script>
+</body>
+</html>

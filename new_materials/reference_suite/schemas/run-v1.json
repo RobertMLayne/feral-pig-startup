@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://reference-suite.local/schemas/run-v1.json",
+  "title": "Reference Suite Run Manifest v1",
+  "type": "object",
+  "required": ["schema", "run_id", "job", "planned_requests", "status", "error", "finished_at", "record_count", "relationship_count", "artifacts"],
+  "properties": {
+    "schema": {"const": "reference-suite.run.v1"},
+    "run_id": {"type": "string"},
+    "job": {"$ref": "job-v1.json"},
+    "planned_requests": {"type": "array", "items": {"type": "object"}},
+    "status": {"enum": ["complete", "partial", "failed"]},
+    "error": {"type": "string"},
+    "finished_at": {"type": "string", "format": "date-time"},
+    "record_count": {"type": "integer", "minimum": 0},
+    "relationship_count": {"type": "integer", "minimum": 0},
+    "artifacts": {"type": "array", "items": {"type": "object", "required": ["path", "sha256", "bytes"]}}
+  }
+}

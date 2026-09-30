@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+out/
+library.sqlite3
+library.sqlite3-*
+*.part

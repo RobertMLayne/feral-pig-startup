@@ -1,0 +1,1364 @@
+# Title: Patent Project Tracker Draft
+# User: Robert Michael Layne, Ph.D. (robert@layneip.com)
+# Created: 9/3/2026 2:50:05
+# Updated: 9/3/2026 5:07:53
+# Exported: 9/3/2026 8:34:37
+# Link: https://chatgpt.com/g/g-p-6a51e69fb46481919f57ffde6e8cbc39/c/6a991895-02e0-83ea-b755-bd02704274e4
+
+Prompt,Response
+"9/3/2026, 2:50:04 AM
+
+This chat is intended to give an overall background perspective of this project. Based on a comedic informative report on the current state of technological affairs for curbing the wild boar problem, we feel we have at least one or more patentable methods for culling wild boar populations.
+
+We want to build a business model for our business and draft a provisional patent application. Ingest all materials currently in the project and draft a skeleton way of tracking progress and outlining all tasks that we will need to do to accomplish this. Additionally, note that I have numerous other references that I can provide. However, one of your first tasks should be consolidating all materials and intervening orders that accompany the mpep since its last revision to make up the current set of rules as a downloadable set of PDFs.@Web search","9/3/2026, 2:50:05 AM
+
+Status: I’ll treat this as the project-control baseline: ingest the existing project instructions and feral-pig source, establish the required claim/task tracker, and assemble an authoritative MPEP-currentness package from USPTO materials.
+
+Assumptions: “current set of rules” means the latest MPEP revision plus post-revision USPTO examination guidance/notices/orders that materially modify or supplement examiner practice. Risk: some post-MPEP authorities are Federal Register notices, memoranda, or court-driven guidance rather than amendments to the MPEP itself, so I’ll separate binding/official sources from explanatory material.
+
+A material finding has emerged before claim drafting: the broad “recognize an animal, then activate a killing mechanism” concept appears substantially occupied by earlier patent publications. I’m logging those references as blocking patentability risks rather than treating the current Claim 1 language as presumptively novel.
+
+Reading PDF and spreadsheet skills
+
+Read PDF, spreadsheet, and Spreadsheet API Quick Start skills
+
+Searching the web
+
+Memoranda to the Examining Corps | USPTO
+MPEP
+MPEP
+MPEP
+
+Assembling current materials
+
+I’m interpreting the request as a downloadable bundle containing the current MPEP, consolidated patent laws and rules, and subsequent publications or intervening materials issued since the last revision. I’ll organize the PDFs clearly and include source links where available.
+
+Assembled current materials
+
+Searching the web
+
+MPEP - L
+
+Refining the document bundle
+
+I’m determining whether the bundle should include every linked intervening document or only the core MPEP, laws, rules, and subsequent-publications index. I’m leaning toward including an organized index plus all directly relevant PDFs.
+
+Refined the document bundle
+
+Searching the web
+
+Patent related notices - 2026 | USPTO
+
+Defining bundle scope
+
+I’m treating the official subsequent-publications list as the baseline, then checking for newer practice notices. I’ll separate effective authorities from proposals or informational materials so the downloadable set remains current and clear.
+
+Defined the bundle scope
+
+Searching the web
+
+2164-The Enablement Requirement
+PRINT
+
+Searched 4 websites
+
+Downloading and packaging MPEP patent materials
+
+Downloaded and packaged MPEP patent materials
+
+Assessed post-revision authorities, prior art, citations, and feral hog impacts
+
+Created and verified patent and business buildout workbook formulas
+
+Searching the web
+
+Revised Form Paragraphs for Design Patents and Applications
+
+Designing the deliverables
+
+I’m planning a compact authority binder with an index, update register, and project roadmap, each linking to official source PDFs. I’ll also include a manifest so the collection is easy to verify, download, and maintain.
+
+Building the authority index
+
+I’m preparing a practical PDF index that links the current MPEP, consolidated statutes and rules, subsequent publications, and relevant updates. I’ll distinguish effective materials from proposals and preserve official source references for verification.
+
+Designed deliverables and built the authority index
+
+Searching the web
+
+Feral Hog Solutions - Kaput Products
+13x16 - Feral Hogs - Transcripts - Forever Dreaming
+US11716993B2 - Feral hog toxicant - Google Patents
+U.S. Patent Application for FERAL HOG FEEDER ASSEMBLY Patent Application (Application #20220378015 issued December 1, 2022) - Justia Patents Search
+LSU AgCenter
+Feral Hogs: Last Week Tonight with John Oliver (HBO) - Transcript | Cockatoo
+www.fishwildlife.org
+
+Organizing project work
+
+I’m treating consolidation of current patent authorities as the first task, while tracking the provisional draft, claim sets, enablement, risks, and business items through a single spreadsheet source of truth.
+
+Next steps for next run
+
+Build the authority index PDF.
+
+Finalize tracker structure.
+
+Map Set 1 drafting tasks.
+
+Flag unresolved claim risks.
+
+Organized project work
+
+Searched 1 website
+
+Inspecting tracker files and planning artifact patch
+
+Inspected tracker and startup files and reviewed spreadsheet guidance
+
+Worked for 6m 48s
+Status: The project-control baseline is now established. I ingested the current project instructions and the feral-pig transcript, created the required claim/project tracker, assembled a current-MPEP authority package, and completed an initial patentability triage.
+
+Completed vs Pending: Completed work includes the tracker, MPEP/post-MPEP authority index, post-July-2026 update screen, project roadmap, and first-pass prior-art triage. Pending work includes the enabling technical disclosure, primary-source tracing of the LSU work, element-by-element claim charts, the Set 1 mid-scope independent claim, 17 dependent claims, formal USPTO Patent Public Search work, regulatory mapping, and patent-attorney review.
+
+Primary risk: The working broad Claim 1 should no longer be treated as presumptively patentable. Several earlier patent publications occupy substantial portions of “machine recognition of a target animal followed by target-dependent activation of a lethal/control mechanism.” The likely patentable center, if one survives the full search, will need to be identified more precisely.
+
+Deliverables
+
+The operational tracker is the single source of truth for claims and project status. It contains the required Claim Inventory, plus Dashboard, Task Register, Risk Register, Source Inventory, MPEP Update Register, and Business Skeleton sheets. Claim 1 and Claim 20 are logged; all 20 Set 1 claim slots are reserved, but only two claims are currently drafted. The tracker presently records 11 blocking risks and 29 post-MPEP authorities.
+
+Download the project tracker
+
+I also prepared a three-PDF package. The core MPEP document identifies the controlling/current layers and gives clickable links to the official USPTO materials; the second PDF contains the complete post-revision update register; the third captures the patent/business roadmap and current risk posture.
+
+Download the complete MPEP/current-authority PDF pack
+
+Individual files:
+
+MPEP Core Current Authorities
+
+MPEP Post-Revision Update Register
+
+Feral Pig Patent & Business Project Roadmap
+
+The sandbox was not able to mirror the USPTO-hosted source PDFs themselves reliably, so this first package is an audit-ready index/manifest with official clickable source links, rather than redistributed copies of the USPTO files. That distinction is deliberate.
+
+1. Current MPEP baseline
+
+The USPTO's current MPEP is Ninth Edition, Revision 01.2024, published in November 2024, but USPTO expressly says it is only current through January 31, 2024. USPTO therefore directs practitioners to supplement it with current fees, consolidated patent laws, consolidated patent rules, and its “Subsequent Publications” list. (USPTO)
+
+The resulting working authority stack as of September 3, 2026 is:
+
+MPEP Rev. 01.2024 as the baseline manual.
+
+Consolidated Patent Laws, current through July 18, 2025; USPTO itself notes that the enacted Public Laws remain authoritative. (USPTO)
+
+Consolidated Patent Rules, current through July 20, 2026; USPTO identifies the Federal Register as authoritative for verification. (USPTO)
+
+The July 2026 Subsequent Publications list, covering examination-policy/procedure changes after January 31, 2024 through July 20, 2026. (USPTO)
+
+Five materials the USPTO expressly says supersede portions of the current MPEP: January 2025 design form paragraphs, January 2025 fee-related form paragraphs, October 2025 PE2E Similarity Search guidance, October 2025 entity-status guidance, and the December 2025 Ex Parte Desjardins advance notice. (USPTO)
+
+A post-July-20 supplement: the August 3, 2026 DOCX/Patent Center procedure update, subsequently published in the September 1, 2026 Official Gazette. (USPTO)
+
+The spreadsheet and update-register PDF preserve the individual authorities rather than collapsing them into a statement that “the MPEP is current.”
+
+2. Provisional filing gate
+
+The project's provisional-filing rule is substantively correct and should remain a hard project-control rule.
+
+Under 35 U.S.C. 111(b), a provisional does not require a claim satisfying §112(b)-(e), but it does require a specification prescribed by §112(a) and any required drawing. (USPTO) More importantly, a later nonprovisional claim receives the provisional filing-date benefit only when the provisional's written description and drawings adequately support and enable that later-claimed subject matter. (USPTO)
+
+Accordingly, I would not delay a filing merely because the 20-claim Set 1 is imperfect. I would delay if the disclosure cannot presently teach the technically important aspects of population identification, confidence criteria, gating logic, failure handling, lethal actuation, and safety with sufficient detail.
+
+3. The transcript is useful-but it contains a warning for the patent strategy
+
+The uploaded Oliver transcript is a useful lead-generation document. In particular, it identifies two facts directly relevant to the proposed invention: whole-sounder trapping is important because missed pigs learn avoidance, and the report describes an LSU system intended to distribute poisoned bait based on feral-hog voice recognition. 2026-06-28 John Oliver Special Report on Feral Pigs – Transcript.docx
+
+That means the transcript itself was already pointing toward potentially close art. I am treating each such statement as a search lead, not as authoritative proof of what an earlier patent or scientific publication actually discloses.
+
+4. Initial patentability triage materially changes the claim-development order
+
+Three references deserve immediate claim charts.
+
+US10368539B2, “Species specific extermination device.” Its disclosure uses a camera, compares a target image against reference images to decide whether the animal is one selected for euthanasia, and-if it matches-energizes electrodes to kill it. Its issued method claim likewise recites detecting the animal, obtaining an image, comparing the image with references, determining a match, and energizing electrodes sufficiently to destroy the target. (Google Patents) The family claims a 2013 priority date. (Google Patents)
+
+That is very close to the conceptual skeleton of current Claim 1: video recognition followed by lethal action. I would therefore not invest in polishing Claim 1's present wording before charting this reference.
+
+US20210315186A1, USDA's “Intelligent dual sensory species-specific recognition trigger system.” Its priority date is April 14, 2020. (Google Patents) Its claims cover audio-plus-visual animal recognition, estimation of the quantity of target animals, autonomous activation of a wildlife-management device, and devices controlling delivery of toxicants. (Google Patents) The specification expressly identifies feral swine, describes field deployments, and discusses recognition-gated feral-swine bait boxes and toxicant-delivery applications. (Google Patents)
+
+This presents substantial risk not only to Claim 1 but also to much of the obvious “mid-scope” territory between species recognition and selective lethal delivery.
+
+US20140261201A1 / US9295225B2, “Species specific feeder.” This family has a March 15, 2013 priority date. (Google Patents) Its disclosure specifically addresses wild boar, species-selective access, population-control compositions, adding poison to feed to kill feeding boar, and even short-term use to eliminate a local population of wild boar. (Google Patents)
+
+This is particularly important for current Claim 20. “General poison + selective access/delivery + local feral-pig population” cannot presently be assumed to provide the novelty.
+
+These are preliminary findings, not a final anticipation or obviousness opinion. Element-by-element claim construction, priority verification, family/citation searching, combinations of references, and counsel review remain necessary.
+
+5. Where I would search for the invention now
+
+The useful question is no longer simply whether “AI recognizes a pig and then kills it” is patentable. Earlier art makes that proposition too broad.
+
+The more promising technical distinctions to investigate are:
+
+Persistent local-population membership modeling: establishing a roster or probabilistic representation of a particular sounder rather than merely recognizing the species or counting animals currently visible.
+
+Completeness determination: deciding that a prescribed population-completeness criterion has been met across observations, identities, confidence levels, temporal windows, and sensor coverage.
+
+Actuation conditioned on population state: the lethal mechanism remains unavailable until the group-state criterion is satisfied, with abort/re-arm behavior if an expected individual disappears, an unknown animal appears, or sensor confidence degrades.
+
+Selective timing/access with nonselective toxicity: making clear that selectivity lies in access, dispensing, authorization, temporal gating, or exposure rather than falsely suggesting that the poison itself selectively affects pigs.
+
+Safety and auditable decision architecture: non-target exclusion, conflicting-modality handling, confidence hysteresis, human override, fail-safe states, event logs, post-actuation records, and rules for uncertainty.
+
+Whether those distinctions are actually novel remains an empirical search question. They are simply better candidates for investigation than the current generic Claim 1 architecture.
+
+6. Project skeleton and business workstreams
+
+The tracker now organizes the project around nine concurrent workstreams: evidence/source control; enabling disclosure; Set 1 claims; patentability searching; filing; regulatory/deployment; business model; company/funding/IP ownership; and experimental partnerships.
+
+For the business model, I would initially test a platform position rather than assume the company must sell a particular poison. Candidate customers include agriculture/wildlife agencies, farms and large landowners, professional wildlife-control operators, infrastructure sites, and OEM partners. Candidate revenue architectures include recognition/control hardware, a managed control service, OEM/licensing of the recognition-and-gating layer, monitoring/data services, and integration with separately approved control mechanisms.
+
+That business hypothesis is subject to a major constraint: a broad recognition-trigger platform itself may also overlap the USDA and other earlier technology. The patent strategy and commercial differentiation therefore need to be developed together rather than independently.
+
+7. Immediate drafting rule
+
+I recommend not drafting the mid-scope independent claim yet. The next patent task should be PAT-014 in the tracker: chart Claims 1 and 20 against the three blocking references above, then use the uncovered claim space to define the mid-scope independent.
+
+In parallel, the specification can and should advance immediately. The disclosure should be deliberately over-inclusive on technical implementation: sensor combinations, individual versus species recognition, population-model maintenance, confidence/threshold mathematics, spatial and temporal definitions, unknown-member handling, safety states, communication architecture, actuation variants, logging, power/network failures, adversarial environmental conditions, and alternative lethal mechanisms. This follows the provisional priority rule without allowing provisional-quality claim drafting to dictate the disclosure.
+
+The MPEP/current-law layer is now set up so new authorities can be added to the tracker rather than reconstructed from scratch on each legal-research pass.
+
+suggest_automation
+
+Next steps for next run
+
+Build element-by-element charts for US10368539B2, US20210315186A1, and US20140261201A1/US9295225B2 against current Claims 1 and 20.
+
+Trace the transcript's LSU voice-recognition feeder discussion to the underlying primary technical/patent sources.
+
+Start the enabling-specification interview with the local-population/sounder membership and “all members present” algorithm.
+
+Convert those answers into the provisional specification's architecture, recognition, safety, failure-mode, and example sections.
+
+Only then draft and log the Set 1 mid-scope independent claim.
+
+Keep Set 2 locked.
+
+Begin a reproducible USPTO Patent Public Search search log after the first three claim charts identify the most important CPC classes, terminology, inventors, and citation families.
+
+Resolve inventorship/conception records and retain licensed patent counsel for a pre-filing review before submission.
+
+Sources:
+
+https://www.uspto.gov/web/offices/pac/mpep/
+
+https://patents.google.com/patent/US10368539B2/en","9/3/2026, 3:04:17 AM
+
+Robert M. Layne, Ph.D.: Startup
+
+Save and organize all documents in the folder in the attached link.@Web search","9/3/2026, 3:04:18 AM
+
+I can organize the deliverables into the linked Teams/SharePoint folder, but the link is a private workspace target rather than a public web page. I’m checking whether this workspace has a Microsoft Teams/OneDrive/SharePoint connector available so I can perform the file move directly rather than just give you a manual folder plan.
+
+The private link resolves only to a Teams launcher in public web access, so I cannot see the folder target from the URL alone. I found Microsoft Teams and SharePoint integrations that may expose the private destination; I’m surfacing those as the most direct route to complete the filing/organization action.","9/3/2026, 3:10:26 AM
+
+I can access the connected Microsoft OneDrive, but the available SharePoint connector does not expose a “create folder/upload new file” action—only discovery, copying existing cloud items, and overwriting an existing exact file. I’m checking whether the target folder already appears in your recent Microsoft files so I can use it as an exact destination.
+
+The Teams URL is a chat-message link, not an addressable OneDrive/SharePoint folder URL. Microsoft documents that Teams Free chat attachments are stored in the sender’s Microsoft Teams Chat Files folder in OneDrive, while ordinary Teams channel files live in SharePoint.
+
+Because the connected Microsoft action set here cannot create/upload new files into that location, I’m packaging the current project files into a clean folder hierarchy so nothing is lost or left ambiguously named.
+
+Searched recent documents for target folder
+
+Searching the web
+
+File storage in Microsoft Teams | Microsoft Support
+
+Searched 1 website
+
+Creating Organized Feral Pig Project Archive
+
+Created organized feral pig project archive
+
+Worked for 33s
+Status: I organized the complete current project document set into a clean folder hierarchy and created a single upload-ready archive.
+
+Blocking issue: I could not place the files directly into the attached Teams location because the supplied URL resolves to a Teams chat message, not an addressable folder, and the Microsoft connector available in this session does not provide a new-file/folder upload operation. The connected drive I can see is your OneDrive, but the target chat folder itself was not exposed as a writable destination. OneDrive
+
+Microsoft confirms that Teams Free chat attachments are stored in the Microsoft Teams Chat Files folder in OneDrive; channel files use the team's SharePoint library. (Microsoft Support)
+
+Organized package
+
+Download the complete organized project archive
+
+The archive contains:
+
+Startup_Feral_Pig_Project_Organized_2026-09-03/
+├── README.txt
+├── 00_Project_Control/
+│   └── Feral_Pig_Patent_Business_Project_Tracker_v0.1.xlsx
+├── 01_Legal_MPEP/
+│   ├── MPEP_Core_Current_Authorities_2026-09-03.pdf
+│   ├── MPEP_Post_Revision_Update_Register_2026-09-03.pdf
+│   └── MPEP_Current_Authority_PDF_Pack_2026-09-03.zip
+├── 02_Patent_Strategy/
+│   └── Feral_Pig_Project_Roadmap_2026-09-03.pdf
+└── 03_Source_Materials/
+    └── 2026-06-28 John Oliver Special Report on Feral Pigs - Transcript.docx
+
+The spreadsheet remains the single source of truth for claims, risks, tasks, and project status.
+
+If you provide the actual OneDrive or SharePoint folder URL-rather than the Teams chat-message URL-I can attempt the cloud-side organization against that exact destination with the connected Microsoft tools.
+
+Next steps for next run
+
+Provide the actual OneDrive/SharePoint folder link from the Teams Shared/Files location.
+
+Resolve the folder to an exact Microsoft drive/item target.
+
+Copy or update cloud files there wherever the connector permits.
+
+Preserve the folder taxonomy above as the project filing structure.
+
+Continue adding subsequent project artifacts under the appropriate numbered folder.","9/3/2026, 3:22:12 AM
+
+We are not going to limit claims in our provisional patent, as there are no claims even required but it will provide the ability to potentially add more material without it being new matter down the line.@Web search","9/3/2026, 3:22:13 AM
+
+I’m updating the filing strategy around that point. The key distinction is between omitting or de-emphasizing claims in the provisional and maximizing written-description support so later claims can be drafted broadly without losing the provisional date.
+
+Searching the web
+
+211-Claiming the Benefit of an Earlier Filing Date Under 35 U.S.C. 120 and 119(e)
+PRINT
+
+Searched 2 websites
+
+Reading spreadsheet skill instructions
+
+Read spreadsheet skill instructions and API quickstart guide
+
+Searching the web
+
+2163-Guidelines for the Examination of Patent Applications Under the 35 U.S.C. 112(a) or Pre-AIA 35 U.S.C. 112, first paragraph, “Written Description” Requirement
+PRINT
+
+Searched 2 websites
+
+Worked for 29s
+Status: Agreed, with one legal precision. The provisional should not be constrained by the 20-claim architecture. Claims are optional, and the filing objective should be maximal §112(a) disclosure support for whatever claims we may later decide to pursue.
+
+Tracker: I updated the project tracker to make this an explicit adopted strategy and added a supplemental-provisional workflow.
+
+Download the updated project tracker
+
+Correct framing
+
+A provisional application does not require a formal patent claim. 35 U.S.C. §111(b)(2) expressly provides that claims under §112(b)-(e) are not required, and USPTO likewise states that a provisional may be filed without a formal patent claim. (USPTO)
+
+So our working 3-independent + 17-dependent Set 1 is not a limitation on the provisional. It remains useful for:
+
+testing whether the disclosure supports contemplated future scope;
+
+identifying §112 gaps;
+
+prior-art searching;
+
+designing a broad-to-narrow nonprovisional claim ladder;
+
+anticipating restriction issues.
+
+It is not a provisional filing requirement or a disclosure ceiling.
+
+Important new-matter distinction
+
+The part I would phrase slightly differently is:
+
+We want to disclose as much of the reasonably contemplated invention now as possible so that later claims can be added or changed without requiring subject matter that was absent from the original disclosure.
+
+That is different from saying that the provisional permits us to add new material later without it becoming new matter.
+
+USPTO states that a filed provisional generally cannot be substantively amended after it receives its filing date. Matter absent from the specification, claims, and drawings at filing is ordinarily new matter if later introduced. (USPTO)
+
+For a later nonprovisional claim to receive the provisional's date, the provisional must adequately describe and enable the subject matter of that later claim under §112(a). The fact that no claims were filed in the provisional does not relax that requirement. (USPTO)
+
+So our operative rule becomes:
+
+Broad disclosure now → freedom to formulate different claims later.
+
+Not:
+
+Broad disclosure now → permission to introduce undisclosed technical subject matter later.
+
+How I would draft the provisional
+
+The specification should therefore be deliberately broader than any contemplated initial claim set.
+
+For this invention, I would disclose at least the following dimensions independently and in supported combinations:
+
+Target organism
+
+pest generally;
+
+vertebrate/invertebrate;
+
+mammal;
+
+invasive species;
+
+swine;
+
+feral swine;
+
+individual animal;
+
+group;
+
+local population/sounder.
+
+Recognition modality
+
+video;
+
+still image;
+
+infrared/thermal;
+
+audio;
+
+acoustic signature;
+
+radar/lidar/range sensing;
+
+RFID or tagged identification where applicable;
+
+biometric or individual recognition;
+
+species classification;
+
+multimodal combinations.
+
+Recognition purpose
+
+species identification;
+
+individual identification;
+
+group identification;
+
+counting;
+
+roster maintenance;
+
+presence/absence;
+
+completeness determination;
+
+confidence estimation;
+
+exclusion of non-target organisms.
+
+Decision architecture
+
+immediate target decision;
+
+accumulated observations;
+
+temporal windows;
+
+confidence thresholds;
+
+voting/ensemble logic;
+
+human authorization;
+
+automatic authorization;
+
+abort/interlock logic;
+
+revalidation before actuation.
+
+Control action
+
+lethal targeting;
+
+selective delivery;
+
+selective access;
+
+selective timing;
+
+trapping;
+
+toxicant delivery;
+
+projectile/firearm actuation where legally applicable;
+
+electrical means;
+
+mechanical means;
+
+chemical means;
+
+biological or fertility-control means;
+
+other population-control mechanisms.
+
+Selectivity
+
+selective toxicity;
+
+nonselective toxicity with selective delivery;
+
+selective access;
+
+selective actuation;
+
+selective exposure;
+
+selective timing;
+
+population-conditioned access.
+
+Population logic
+
+recognized members;
+
+expected members;
+
+unknown animals;
+
+births/deaths/departures;
+
+changing membership;
+
+incomplete sensor coverage;
+
+'all members present';
+
+specified fraction present;
+
+minimum count;
+
+repeated observation requirements.
+
+Safety/failure behavior
+
+non-target detection;
+
+low confidence;
+
+communications failure;
+
+power failure;
+
+sensor obstruction;
+
+conflicting classifiers;
+
+unexpected animal;
+
+human presence;
+
+environmental hazards;
+
+actuation failure;
+
+logging/audit trail.
+
+The important drafting principle is not merely to provide a huge list of alternatives. We need enough structure and examples to demonstrate possession of the combinations we may later claim. USPTO's written-description guidance states that later claim limitations must be expressly, implicitly, or inherently supported in the originally filed disclosure. (MPEP)
+
+Supplemental provisional strategy
+
+There is also a useful mechanism for developments during the 12-month period.
+
+If we conceive a materially new implementation after Provisional A is filed, we should not attempt to amend Provisional A. Instead, we can consider filing Provisional B containing the new material.
+
+A later nonprovisional may claim the benefit of one or more prior-filed provisional applications under 37 C.F.R. §1.78, provided the applicable requirements are satisfied. (USPTO)
+
+Conceptually:
+
+Provisional A - Day 0
+    broad architecture
+    recognition
+    lethal control
+    population logic
+
+Provisional B - Day 80
+    improved individual-ID algorithm
+    additional safety architecture
+
+Provisional C - Day 190
+    improved population-completeness mechanism
+
+                    ↓
+
+Nonprovisional - before applicable 12-month deadline
+    claims benefit of A + B + C
+
+The priority analysis is then based on what each earlier filing actually supports. A later claim does not automatically receive Day 0 merely because A is somewhere in the priority chain; the claimed subject matter must be adequately supported and enabled by A to obtain A's date. (USPTO)
+
+That gives us a useful rolling disclosure-capture strategy during the provisional year.
+
+Tracker changes
+
+I added a Decision Log recording:
+
+DEC-001 - Provisional claim strategy
+
+The 20-claim architecture is an internal claim-development/search/restriction tool only. It does not limit the provisional specification and is not a filing gate.
+
+DEC-002 - Later-developed subject matter
+
+Material post-filing improvements are to be evaluated for additional provisional filings rather than attempted amendments to the original provisional.
+
+I also added:
+
+PAT-015 - Broad disclosure-support audit
+
+PAT-016 - Supplemental-provisional decision process
+
+and revised the existing filing tasks so that §112(a) disclosure quality-not claim completion-is the filing gate.
+
+Practical drafting consequence
+
+I would now reorganize our workflow slightly:
+
+Specification first, claims as probes.
+
+We can still draft Claims 1, mid-scope, and 20 because they are useful tools for asking:
+
+'If we eventually wanted this claim, where is every limitation supported?'
+
+But when those claims expose an unsupported embodiment, the answer should usually be to expand the specification, not prematurely narrow the claim.
+
+That approach is much better aligned with the purpose of this provisional.
+
+Next steps for next run
+
+Build the provisional specification around a broad disclosure matrix, not the 20-claim set.
+
+Create a claim-to-spec support matrix for contemplated broad, intermediate, and narrow claim concepts.
+
+Enumerate alternative pest classes, recognition modalities, decision logic, targeting/delivery mechanisms, and lethal mechanisms.
+
+Add concrete embodiments and technical examples supporting important combinations rather than relying on generic laundry-list language.
+
+Establish a dated post-filing invention log for improvements conceived during the 12-month provisional period.
+
+Evaluate additional provisional filings whenever materially new subject matter arises.
+
+Continue using Set 1 claims as patentability/support probes, while removing claim completion from the provisional filing critical path.
+
+Sources:
+
+601-Content of Provisional and Nonprovisional Applications
+
+PRINT","9/3/2026, 3:27:16 AM
+
+Build the provisional specification around a broad disclosure matrix, not the 20-claim set.
+
+Create a claim-to-spec support matrix for contemplated broad, intermediate, and narrow claim concepts.
+
+Enumerate alternative pest classes, recognition modalities, decision logic, targeting/delivery mechanisms, and lethal mechanisms.
+
+Add concrete embodiments and technical examples supporting important combinations rather than relying on generic laundry-list language.
+
+Establish a dated post-filing invention log for improvements conceived during the 12-month provisional period.
+
+Evaluate additional provisional filings whenever materially new subject matter arises.
+
+Continue using Set 1 claims as patentability/support probes, while removing claim completion from the provisional filing critical path.
+
+@Web search","9/3/2026, 3:27:16 AM
+
+I’m treating this as an execution request, not just a planning pass. I’ll update the tracker as the control record, build the disclosure/support matrices, and create a working provisional-specification draft that distinguishes transcript-derived material from web-researched technical/legal support.
+
+Two constraints are shaping the draft. First, the transcript itself supports the commercial/technical problem of whole-sounder removal and recognition-gated bait delivery.  Second, USPTO guidance warns that a broad genus is not supported merely by a “laundry list”; representative embodiments and identifying common architecture matter, and enablement must reach the intended claim scope.
+
+I’m also separating inventor-derived disclosure from AI-proposed drafting expansions. That is important here: the specification can be broad, but an AI-generated embodiment should not silently be treated as evidence that an inventor had actually conceived it. Proposed expansions will therefore be marked “inventor confirmation required” until you affirm them.
+
+Reading spreadsheet and DOCX skills
+
+Read spreadsheet and DOCX skills and guides
+
+Refining the patent scope
+
+I’m checking whether authoritative sources support recognition-based wildlife control, while keeping proposed embodiments distinct from proven results. I’ll frame toxicants generically, defer use to registered labels, and avoid unsupported operational claims.
+
+Refined the patent scope
+
+Searched 2 websites
+
+Prepared provisional patent filing using sounder trapping transcript findings
+
+Searching the web
+
+2163-Guidelines for the Examination of Patent Applications Under the 35 U.S.C. 112(a) or Pre-AIA 35 U.S.C. 112, first paragraph, “Written Description” Requirement
+PRINT
+Application/Control Number:15/661,816
+
+Defining patent breadth
+
+I’m structuring the specification around behavioral and taxonomic pest classes, not a single species. I’m also flagging that an unlimited “any pest” claim may require broader supporting embodiments than feral-pig examples alone.
+
+Developing disclosure matrix
+
+I’m organizing the draft into broad, intermediate, and narrow concepts, with species examples, recognition methods, response classes, safety controls, and support-status tracking. I’m keeping implementation details non-operational where regulated tools are involved.
+
+Defined patent breadth and developed a disclosure matrix
+
+Searched 3 websites
+
+Searching the web
+
+Provisional Application for Patent | USPTO
+PRINT
+4/14/2016
+General Information Concerning Patents
+Applying for Patents | USPTO
+
+Structuring embodiments
+
+I’m mapping multimodal recognition, temporal evidence, group-state tracking, sensor fusion, safety gates, and response classes across broad, intermediate, and narrow embodiments, while marking species-specific support and remaining gaps.
+
+Mapping specification sections
+
+I’m assigning section identifiers for sensing, recognition, group tracking, decisions, actuation, selective delivery, safety, logging, and embodiments. I’m also planning figure descriptions and a separate support matrix so coverage and gaps remain auditable.
+
+Structured embodiments and mapped specification sections
+
+Searched 4 websites
+
+Worked for 6m 39s","9/3/2026, 3:33:56 AM
+
+The claims involve the use of audio and video recognition technology to selectively deliver a population control means to feral pigs.","9/3/2026, 3:34:13 AM
+
+The population contrl means may be a lethal means.","9/3/2026, 3:34:21 AM
+
+It may be a lethal means like a general toxin.","9/3/2026, 3:34:28 AM
+
+It may be a specific toxin.","9/3/2026, 3:34:42 AM
+
+It may be a reproductive control means.","9/3/2026, 3:34:49 AM
+
+It may be a genetic modification means.","9/3/2026, 3:34:54 AM
+
+It may be a feed.","9/3/2026, 3:35:07 AM
+
+It may be a feed containing any of the aforementioned.","9/3/2026, 3:35:42 AM
+
+The method may involve the use of AI to identify all local members of a population over a period before adminstering the population control means.","9/3/2026, 3:36:13 AM
+
+The method may involve pretraining the AI to recognize feral pigs instead of other local fauna.","9/3/2026, 3:36:31 AM
+
+The method may involve training the AI on the local population in addition or alone.","9/3/2026, 3:36:54 AM
+
+Take that and build out all concepts fully in fully developed claims.","9/3/2026, 3:37:01 AM
+
+Use the MPEP to guide your wording.","9/3/2026, 3:37:50 AM
+
+I’ll convert your latest conception into a complete 20-claim Set 1 with three independent claims and seventeen dependents, while preserving the provisional strategy: these claims are support/patentability probes, not a disclosure ceiling. I’ll also update the claim inventory in the same session and flag any §112 or prior-art issues created by the new terminology.
+
+Searching the web
+
+2111-Claim Interpretation; Broadest Reasonable Interpretation
+PRINT
+
+Searched 2 websites
+
+Worked for 14s","9/3/2026, 3:52:30 AM
+
+No.","9/3/2026, 3:52:32 AM
+
+Understood. I will not proceed with the 20-claim Set 1 or update the tracker based on that approach.
+
+Next steps for next run
+
+Await your corrected direction on how you want the claim concepts developed.","9/3/2026, 3:52:36 AM
+
+Remember.I said don't limnit claims.","9/3/2026, 3:52:41 AM
+
+Understood. In this project, memory is disabled, so I cannot save this as persistent memory outside the current project context. Within this conversation/project, I will treat the following as controlling:
+
+The provisional is not limited to 20 claims.
+
+Claims are not required for the provisional.
+
+We may draft as many claim concepts and alternative formulations as useful for disclosure support, patentability analysis, and later nonprovisional strategy.
+
+The previous 20-claim Set 1 architecture is not a cap, filing gate, or drafting constraint.
+
+The provisional specification should be drafted broadly enough to support later claims across the full disclosed invention space.
+
+When you next ask me to build out the claims, I will develop the concepts without imposing an artificial claim-count limit.
+
+Next steps for next run
+
+Remove any remaining “20-claim limit” language from the working tracker where it implies a drafting ceiling.
+
+Build an unrestricted claim universe around your audio/video recognition + feral-pig population-control concepts.
+
+Organize claims by broad, intermediate, narrow, system, method, control-medium, AI-training, population-identification, and administration embodiments rather than by arbitrary count.","9/3/2026, 3:52:53 AM
+
+I said to fully build out the examplary claims I mentioned earlier.","9/3/2026, 3:52:53 AM
+
+I will treat the earlier concepts as the claim universe and expand them without an arbitrary claim-count ceiling. I’ll draft multiple independent statutory categories plus dependent ladders covering: audio/video recognition, selective delivery, lethal/nonlethal population control, general/specific toxicants, reproductive control, genetic modification, feed vehicles, local-population learning, pretrained-versus-local training, and “all local members” timing logic.
+
+The MPEP points to four drafting choices I’m applying here: use open-ended “comprising” language; keep dependent claims singly dependent; use functional language only where the claim still gives an ascertainable boundary; and avoid generic “means for” placeholders unless §112(f) treatment is deliberate.
+
+I’m also separating broad umbrella terms from concrete species claims because the current MPEP cautions that a broad genus needs representative species/common identifying characteristics and must be enabled across its intended scope—not merely listed.
+
+Searching the web
+
+2111-Claim Interpretation; Broadest Reasonable Interpretation
+PRINT
+
+Searched 2 websites
+
+Reading spreadsheet skill instructions
+
+Framing patent claims
+
+I’m organizing broad exemplary claims around detection, selective delivery, reproductive suppression, toxicants, genetic interventions, and feed vehicles. I’m keeping the genetic components functionally described rather than operationally specified.
+
+Framed patent claims
+
+Expanding claim coverage
+
+I’m broadening the working claim universe without imposing a numerical cap. I’ll preserve prior drafts in a history record, while organizing the expanded claims by independent concepts, dependencies, and technical scope.
+
+Expanded claim coverage
+
+Read spreadsheet instructions and API quick start guide
+
+Worked for 1m 52s","9/3/2026, 3:54:46 AM
+
+Also, even though this is a provisional patent, we want it setup for easiest conversion to a non-provisional without any additions. Thus, pruning claims then will make sense but that is not a concern until 10 months from when we file.","9/3/2026, 3:54:46 AM
+
+That changes the drafting target materially: I’ll treat the provisional as a near-nonprovisional disclosure package, with an intentionally overcomplete claim universe now and pruning/dependency cleanup deferred until conversion strategy is evaluated roughly ten months after filing. The drafting goal is that conversion should require claim selection and prosecution strategy—not new technical disclosure.
+
+Searching the web
+
+2163-Guidelines for the Examination of Patent Applications Under the 35 U.S.C. 112(a) or Pre-AIA 35 U.S.C. 112, first paragraph, “Written Description” Requirement
+
+Structuring claim language
+
+I’m checking claim-drafting conventions, especially open-ended transition language and dependent-claim structure. I’m aiming for a comprehensive provisional claim universe that supports later narrowing without requiring new disclosure.
+
+Refining claim terminology
+
+I’m replacing the vague phrase “population-control means” with clearer terms such as “population-control treatment,” “agent,” “operation,” and “material.” I’m also distinguishing feed used as a carrier, attractant, conditioning input, or control component.
+
+Refined and structured claim language and terminology
+
+Searched 1 website
+
+Worked for 43s","9/3/2026, 3:55:29 AM
+
+Exactly. Thus, comprehensive technical disclosure for embodiment possibilities will be key.","9/3/2026, 3:55:30 AM
+
+I’ll use that as the drafting standard: the provisional should contain enough concrete architecture, algorithms, interfaces, control-medium embodiments, failure modes, and alternatives that the later nonprovisional can be prepared principally by pruning/recasting claims rather than adding technical subject matter. I’m expanding the claim universe and the corresponding disclosure requirements together, not treating either as subordinate to the other.
+
+The claim architecture is now broader than a single “poison feeder” concept. I’m building separate independent families for the general selective-control method, learned local-population control, general toxicants, species-selective toxicants, reproductive control, genetic modification, feed-mediated control, the physical system, AI training/configuration, and control software. This gives us conversion-ready alternatives without forcing those alternatives into one potentially vulnerable independent claim.
+
+Read the API quick start guide
+
+Searching the web
+
+2111-Claim Interpretation; Broadest Reasonable Interpretation
+PRINT
+
+Searched 2 websites
+
+Worked for 5m 2s","9/3/2026, 4:00:32 AM
+
+Resume.","9/3/2026, 4:02:57 AM
+
+Resume.","9/3/2026, 4:04:29 AM
+
+Where are the updated project files for download?","9/3/2026, 4:04:32 AM
+
+Updated project files are ready for download.
+
+Latest files
+
+Updated Project Tracker - Feral_Pig_Patent_Business_Project_Tracker_v0.1.xlsx
+
+Unrestricted Exemplary Claims - 100 Claims / 10 Independent Families
+
+Existing project reference package
+
+Organized Project Archive
+
+MPEP Current-Authority PDF Pack
+
+MPEP Core Current Authorities
+
+MPEP Post-Revision Update Register
+
+Patent & Business Project Roadmap
+
+The two files at the top are the latest modified working files. The tracker now reflects the unrestricted claim-universe strategy, and the DOCX contains the current 100-claim exemplary universe.
+
+Next steps for next run
+
+Draft the full conversion-ready provisional specification DOCX corresponding to these claims.
+
+Expand technical disclosure for reproductive control, genetic modification, toxicant, feed, AI training, and local-population embodiments.
+
+Prepare provisional drawings and figure descriptions.
+
+Regenerate the organized project archive so it contains these latest versions.","9/3/2026, 4:05:08 AM
+
+Create a new organized project archive with all updated versions of each file and no fossil files.","9/3/2026, 4:05:08 AM
+
+I’ll rebuild the archive from the current canonical files only, exclude prior archive copies/previews/intermediate artifacts, and include a manifest so the package is auditable.
+
+Inspecting current archive files
+
+Organizing current files
+
+I’m identifying the newest version of each document, comparing similarly named files, and excluding obsolete duplicates, prior archives, previews, and redundant bundles. I’m preserving canonical source materials and current references.
+
+Organized current files
+
+Inspecting Current Versions and Archiving Canonically
+
+Inspected project files and curated current versions for canonical archiving
+
+Worked for 32s","9/3/2026, 4:05:44 AM
+
+You'll then begin fully drafting the patent in accordance with all MPEP and intervening guidance in scope.","9/3/2026, 4:05:44 AM
+
+I found a later working generation in the project directory than the archive you previously received: it includes Patent_Drafting_Master_Control_v0.1.docx, Provisional_Specification_Working_Structure_v0.1.docx, a later Feral_Pig_Provisional_Exemplary_Claims_v0.2_2026-09-03.docx, and a project resume/control file. I’m treating those newer artifacts—not the older v0.1 claim draft—as the canonical inputs unless their contents show otherwise.
+
+Reading document, PDF, and spreadsheet skills
+
+Read document, PDF, spreadsheet, and API file guidance
+
+Searching the web
+
+Subject matter eligibility | USPTO
+
+Searched 1 website
+
+Worked for 27s","9/3/2026, 4:06:09 AM
+
+Our goal is to fully draft this application and claim set, then buildout the business model using this as the foundation understanding of needs.","9/3/2026, 4:06:12 AM
+
+I’ll treat the patent application as the primary technical/legal artifact and the later business model as derivative work from the disclosed system, claims, deployment constraints, and customer needs. First I’m reconciling the canonical file set and rebuilding a clean archive; then I’ll use that same canonical set to begin the full provisional/nonprovisional-ready specification draft under the current MPEP + post-MPEP guidance stack.
+
+Inspecting Files Before Patent Drafting
+
+Inspected canonical project files and compared patent draft archives
+
+Searching the web
+
+Subsequent Publications (After January 31, 2024)
+MPEP
+
+Drafting the application
+
+I’m creating the organized archive first, then beginning a comprehensive patent-application draft with the specification, embodiments, examples, figure descriptions, and the full claim set.
+
+Drafted the application
+
+Searching the web
+
+2181-Identifying and Interpreting a 35 U.S.C. 112(f) or Pre-AIA 35 U.S.C. 112, Sixth Paragraph Limitation
+
+Searched 2 websites
+
+Extracting Working Structure Headings and Text
+
+Extracted working structure headings and text
+
+Drafting full provisional patent application with claims
+
+Drafted full provisional patent application with claims
+
+Worked for 1m 49s","9/3/2026, 4:08:01 AM
+
+We will then proceed with you proceeding through comprehensively and meticulously drafting each document, starting with the patent, using the claim set as the basis, in as many steps as necessary, so break it up to be comprehensive. I should just have to say resume. Once done with the patent, you should proceed to the business documents and all skeleton planning understanding you should target needs for governement grants, federal, state and maybe local, across jurisdictions in the us and potentially abroad.","9/3/2026, 4:08:02 AM
+
+I’m reconciling by content, not filename alone. The clean archive will keep only the latest control record, latest comprehensive claim draft, current patent-drafting/specification controls, current MPEP authority package, roadmap, and source transcript; superseded claim drafts, old archives, rendered previews, and QA artifacts will be excluded.
+
+The legal drafting stack is confirmed. The current MPEP recommends provisional applications follow the nonprovisional specification arrangement; the provisional still requires a §112(a)-compliant specification and necessary drawings, even though claims are optional. The current MPEP also emphasizes full-scope enablement, representative support for broad genera, and the inability to cure missing disclosure later with new matter or late drawings.
+
+Reading document and spreadsheet skills
+
+Read document and spreadsheet guidance and listed latest files
+
+Inspecting claims and drafting documents
+
+Compared claims and document hashes across versions and drafted documents
+
+Refining technical scope
+
+I’m covering the confirmed concepts—multimodal recognition, selective delivery, lethal and nonlethal agents, reproductive control, genetic modification, feed delivery, local fauna identification, and population-specific training—while marking unconfirmed implementation details for review.
+
+Refined technical scope
+
+Searching the web
+
+Revised inventorship guidance for AI-assisted inventions | USPTO
+
+Searched 1 website
+
+Inspecting provisional drafting documents
+
+Inspected provisional drafting documents and project status protocol
+
+Searching the web
+
+608-Disclosure
+
+Structuring the filing
+
+I’m aligning the working documents with a conventional patent-application structure, including the specification, claims, drawings description, inventor-review notes, and supporting archive materials.
+
+Preparing filing language
+
+I’m using clear placeholders where inventor confirmation is still needed, especially for prior disclosures and funding. The draft will explain recognition, registry creation, decision logic, delivery options, monitoring, and population-level coverage without overstating unverified implementation details.
+
+Structured the filing and prepared filing language
+
+Searched 1 website
+
+Worked for 7m 28s","9/3/2026, 4:15:23 AM
+
+Resume.","9/3/2026, 4:16:09 AM
+
+You still need to provide a sturctured archive of all updated documents, which should include all updates you make in this resposne.\","9/3/2026, 4:19:01 AM
+
+Warfarin and the brand name used for pig population control should also be explicitly claimed and contemplated. research everything needed for this to be added in detail as well.","9/3/2026, 4:20:07 AM
+
+Also, contemplate attractive means to get the pigs to the population control trough, which should definitely contemplate selectively delivered feed as being the mechanism of delivery.","9/3/2026, 4:21:16 AM
+
+Also, be sure to keep things perspective but detailed enough to contemplate pest control population means for animals other than feral pigs.","9/3/2026, 4:27:49 AM
+
+Resume.","9/3/2026, 4:30:43 AM
+
+Resumed. The patent has advanced substantially in this pass, but the requested clean canonical ZIP was not yet rebuilt before the tool window closed. I will treat that archive as the first action on the next Resume.
+
+Completed in this pass
+
+The current specification is now v0.2, with 248 numbered specification paragraphs and 135 exemplary claims. It expressly develops:
+
+audio/video/AI recognition;
+
+pretrained, locally trained, and locally adapted recognition;
+
+persistent local-population identification;
+
+population-discovery and all-active-members-present logic;
+
+conditioning/pre-baiting;
+
+feed and other attractants;
+
+monitored trough/feed-station embodiments;
+
+selective feed/treatment delivery;
+
+general toxicants;
+
+predetermined/specified toxicants;
+
+species-selective toxicants;
+
+reproductive control;
+
+genetic-modification control, while expressly flagging the remaining §112(a) support issue;
+
+warfarin;
+
+KAPUT® Feral Hog Bait, technically identified by EPA Registration No. 72500-26 rather than relying on the trademark alone;
+
+sodium nitrite as another named toxicant example;
+
+broader target-animal/pest-control embodiments beyond feral swine;
+
+safety interlocks, logging, failure recovery, system, software, and AI-training embodiments.
+
+EPA materials support the KAPUT branch: KAPUT Feral Hog Bait is identified under EPA Reg. No. 72500-26, with warfarin as its active ingredient. The specification treats patent disclosure separately from whatever current pesticide label and jurisdictional requirements govern actual deployment.
+
+The MPEP drafting framework remains: broad genus support requires representative species/common technical architecture and adequate enablement; trade names should be accompanied by sufficiently definite technical identification; and missing disclosure cannot simply be added later as new matter.
+
+Current canonical working files
+
+Patent Application Working Draft v0.2
+
+135-Claim Exemplary Claim Universe v0.4
+
+Updated Project Tracker
+
+Patent Drafting Master Control v0.2
+
+Project Status / Resume Protocol v0.2
+
+Updated Project Roadmap v0.2
+
+I also completed visual QA of the 31-page patent draft, 10-page claims document, 3-page master control, and 2-page roadmap. No material clipping or layout failures were found.
+
+Still incomplete
+
+The new fossil-free structured archive ZIP is the outstanding deliverable. It needs to be rebuilt using only these canonical files plus the current MPEP authority documents and original source transcript, with a manifest and SHA-256 hashes. The older claim drafts, specification skeletons, old roadmap, old archives, previews, renders, and QA files will be excluded.
+
+After that archive is emitted, the next patent drafting task is the patent figure set, followed by claim-to-spec support reconciliation across all 14 independent families and then formal prior-art claim charting.
+
+Next steps for next run
+
+Rebuild and deliver the clean canonical project ZIP first.
+
+Include manifest + SHA-256 hashes.
+
+Exclude every superseded/fossil artifact.
+
+Begin FIGS. 1-12 and integrate their reference numerals into the specification.
+
+Continue closing §112(a) gaps, particularly population-completeness, reproductive-control, species-selective-toxicant, genetic-modification, and broader target-animal support.
+
+Continue automatically when you say Resume.","9/3/2026, 4:34:41 AM
+
+Rebuild and deliver the clean canonical project ZIP first.
+
+Include manifest + SHA-256 hashes.
+
+Exclude every superseded/fossil artifact.
+
+Begin FIGS. 1-12 and integrate their reference numerals into the specification.
+
+Continue closing §112(a) gaps, particularly population-completeness, reproductive-control, species-selective-toxicant, genetic-modification, and broader target-animal support.
+
+Continue automatically when you say Resume.","9/3/2026, 4:34:42 AM
+
+I’ll do this in the requested order: first rebuild the fossil-free canonical archive with a manifest and SHA-256 checksums; then create and integrate FIGS. 1–12 with stable reference numerals; then expand the specification where the current record supports the §112(a) branches and explicitly flag any remaining inventor-confirmation gaps rather than inventing missing technical conception.
+
+The canonical archive set is now fixed: tracker, current patent draft, current 135-claim universe, master control, resume protocol, current roadmap, the two current MPEP authority PDFs, and the original transcript. Older claim/spec versions, old ZIPs, previews, QA renders, and abandoned 20-claim artifacts are excluded. I’m hashing that set before touching the next patent revision so the archive provenance is explicit.
+
+Reading document, PDF, and spreadsheet skills
+
+Read tool guides and listed files in /mnt/data
+
+Searched 4 websites
+
+Worked for 56s
+Completed: All six requested actions for this checkpoint are complete. The canonical archive was rebuilt after all edits in this response, so it contains the updated artifacts, not the versions that existed at the start of the run.
+
+Canonical archive verification: 24 project files plus 3 manifest/control files; SHA-256 verification returned zero failures. Superseded claims/specifications, previous ZIPs, QA renders, previews, old 20-claim materials, and intermediate drafting artifacts are excluded.
+
+Patent status: Specification v0.3 now contains 280 sequentially numbered specification paragraphs, the current 135-claim / 14-independent-family claim universe, FIGS. 1-12 descriptions and reference numerals, and the expanded §112(a) disclosure from this pass.
+
+Canonical project archive
+
+Download the complete fossil-free canonical project archive v0.4
+
+The ZIP contains MANIFEST_SHA256.json, MANIFEST_SHA256.csv, and SHA256SUMS.txt. I also extracted the ZIP after creation and independently recomputed every manifest hash; all matched.
+
+Updated patent artifacts
+
+Patent Application Working Draft v0.3
+
+135-Claim Exemplary Claim Universe v0.4
+
+Patent FIGS. 1-12 Drawing Set
+
+Updated Project Tracker
+
+Patent Drafting Master Control v0.4
+
+Project Status / Resume Protocol v0.4
+
+Project Roadmap v0.3
+
+Current Patent Research Notes
+
+FIGS. 1-12
+
+The drawing set now establishes a stable reference-numeral vocabulary from the specification through the tracker. FIG. 1 covers the overall sensing/processing/registry/authorization/treatment system; FIGS. 2-3 cover recognition and AI training; FIGS. 4-7 cover identity, population registry, discovery and completeness; FIG. 8 covers treatment authorization; FIG. 9 covers the conditioning/treatment trough; FIG. 10 covers the treatment classes; FIG. 11 covers audit/state updates; and FIG. 12 supplies the broader target-animal architecture.
+
+The tracker now has a dedicated Figure Numerals sheet with 101 reference-numeral entries, plus an Independent Family Audit covering all 14 independent claim families.
+
+§112(a) work completed in this pass
+
+The local-population branch now includes a substantially more concrete implementation. The disclosure distinguishes population discovery from current population presence; defines candidate, active, inactive, removed and unknown states; provides discovery-stabilization criteria; treats newly appearing unknown pigs conservatively; defines recency and revalidation behavior; and includes a non-limiting N_active/N_present completeness formalization. This is specifically aimed at the MPEP written-description requirement that the specification demonstrate possession rather than merely state a desired functional result.
+
+That formalization remains highlighted for inventor confirmation. It should not silently become the inventors' conception merely because it is technically coherent.
+
+The reproductive-control branch is now anchored to actual technology classes. Current USDA materials identify GnRH/GonaCon, PZP, and diazacon as wildlife reproductive-control approaches and report GonaCon testing in domestic and feral swine; USDA also identifies development of oral and nasal GnRH delivery technologies as a research objective. The specification uses those as representative technical context while expressly avoiding any assertion that all delivery routes or formulations were invented here or are presently authorized for feral-swine deployment.
+
+The toxicant disclosure was corrected to make an important technical distinction. Sodium nitrite is now treated as a predetermined toxicant / differential-susceptibility example, not as proof of an inherently feral-pig-exclusive toxicant. Published work recognizes both the susceptibility of pigs and the associated non-target risk.
+
+KAPUT® remains a concrete narrow species in the disclosure and claims, technically identified rather than solely by trademark: EPA lists KAPUT FERAL HOG BAIT, EPA Reg. No. 72500-26, with warfarin 0.005% as active ingredient on the accepted label.
+
+The genetic-modification branch was expanded only to the point the record permits. Public literature establishes genetic biocontrol as a technical field encompassing population suppression/modification, fertility effects, inheritance effects, and sex-ratio strategies. But that does not establish that the inventors presently possess a particular feral-swine molecular implementation. Accordingly, the draft deliberately does not manufacture nuclease sequences, guide sequences, vectors, target loci, constructs, doses, or release protocols. That family remains a blocking inventor-confirmation/enablement issue.
+
+The broader pest/target-animal genus now has representative implementations for terrestrial mammals, birds, reptiles/amphibians, aquatic vertebrates, and arthropods, tied back to common core 1210. This was added specifically because the current MPEP warns that a broad genus may require representative species or common identifying characteristics reflecting the variation across the genus.  Full-scope enablement still has to be evaluated under the Wands/Amgen framework rather than assumed merely because the classes have been named.
+
+Visual QA passed on the revised 34-page patent specification, the 12-page drawing set, the master control, and the roadmap.
+
+Next steps for next run
+
+On Resume, perform the figure-to-specification numeral audit and full claim-to-specification support audit.
+
+Convert the inventor-confirmation items into a concise technical questionnaire, starting with the local-population identity/completeness implementation.
+
+Resolve or narrow the species-selective-toxicant family.
+
+Confirm the reproductive-control treatments/routes actually contemplated.
+
+Obtain concrete inventor-conceived genetic-modification implementation details or mark that branch for later-supported filing.
+
+Confirm the representative non-swine embodiments underlying the broad target-animal genus.
+
+Then begin comprehensive element-by-element prior-art claim charting and formal patent searching.
+
+Continue rebuilding the canonical fossil-free archive at each material checkpoint.","9/3/2026, 4:51:11 AM
+
+Resume.","9/3/2026, 4:51:13 AM
+
+Resuming from the current checkpoint: I’m auditing every FIG. 1–12 reference numeral against specification v0.3, then auditing the 14 independent claim families against exact specification support. I’ll update the tracker and rebuild the canonical archive after those audits so this checkpoint is self-contained.
+
+Reading document, PDF, and spreadsheet skills
+
+Read document, PDF, spreadsheet skills and API quick start
+
+Audited claims, description support, numerals, and figure mappings
+
+Worked for 40s
+Completed vs Pending: This Resume pass is complete. The figure/specification audit, independent-claim support audit, inventor questionnaire, specification correction, drawing correction, project-control synchronization, QA, and canonical archive rebuild are finished.
+
+Current patent state: specification v0.4, FIGS. 1-12 v0.2, claims v0.4 (135 claims / 14 independent families), support audit v0.2, and canonical archive v0.5.
+
+Next executable task: formal element-by-element prior-art claim charting can proceed immediately while inventor-confirmation responses remain pending in parallel.
+
+Canonical archive
+
+Download the complete fossil-free canonical project archive v0.5
+
+The archive contains 26 canonical project files, plus its integrity manifests. Every project-file SHA-256 was independently recomputed after extracting the ZIP; zero hash mismatches were found.
+
+It excludes prior specification versions, earlier claim sets, older figures, prior ZIPs, QA/contact sheets, superseded support-audit versions, and obsolete planning artifacts.
+
+Patent application
+
+Patent Application Working Draft v0.4
+
+The 34-page specification passed visual QA. It retains 280 numbered specification paragraphs and the complete 135-claim universe.
+
+This pass corrected several figure-reference integration issues. The specification now explicitly carries subordinate numerals including camera 112, microphone 114, other sensor 116, edge processor 122, remote processor 124, audio evidence 262, video evidence 264, active working set 440, candidate/unknown set 450, and inactive/removed set 460.
+
+I also restored a proper DEFINITIONS AND INTERPRETIVE FRAMEWORK heading; those definitions had inadvertently remained beneath the reference-numeral heading in the prior version.
+
+Patent drawings
+
+FIGS. 1-12 Drawing Set v0.2
+
+The final numeral audit now covers 111 tracked reference numerals. FIG. 4 expressly labels identity records 420, and the FIG. 9 970 position/health-sensor rendering defect was corrected. The complete drawing set passed visual QA.
+
+Claim/specification support audit
+
+Patent Support and Figure Audit v0.2
+
+This is now a substantive counsel-review artifact rather than just a family-level summary. It contains 63 limitation-level audit entries covering every limitation of all 14 independent claims, with:
+
+exact numbered specification support;
+
+applicable FIG. support;
+
+support rating;
+
+§112 issue;
+
+blocking/nonblocking classification; and
+
+required corrective action.
+
+The audit deliberately distinguishes “words are present in the specification” from “the disclosure is sufficiently developed to rely on the desired priority date.” That distinction tracks current MPEP §2163: merely reproducing claim terminology is not necessarily enough to establish possession of the claimed invention. (USPTO)
+
+Likewise, the enablement audit is evaluated against the intended scope rather than isolated examples. Current MPEP §2164 continues to use the Wands framework, as informed by Amgen, to determine whether the full claimed scope can be practiced without undue experimentation. (USPTO)
+
+Principal blocking branches
+
+Claim 11 - local-population learning/completeness. The specification now has substantial computational disclosure, figures, registry states, recency logic, unknown-animal treatment, and the nonlimiting N_active / N_present formalization. What remains is confirmation that those implementation details reflect the inventors' conception rather than only a technically plausible drafting formalization.
+
+Claim 31 - species-selective toxicant. Recognition and selective delivery are well supported. The actual toxicological genus is not yet sufficiently anchored to an inventor-conceived species or class with a defined selectivity mechanism.
+
+Claim 41 - reproductive control. The disclosure has been strengthened with concrete technical classes and administration architectures, but we still need confirmation of the particular agent(s), route(s), and protocol actually contemplated by the inventors.
+
+Claim 51 - genetic modification. This remains the largest §112(a) issue. The document deliberately does not manufacture a target gene, vector, construct, guide sequence, molecular delivery system, or other genetic implementation. A concrete inventor-conceived mechanism is needed before treating the broad branch as secure early-priority subject matter.
+
+Claim 111 - broad target-animal genus. Representative terrestrial-mammal, bird, reptile/amphibian, aquatic-vertebrate, and arthropod implementations are now disclosed. The widest genus remains subject to confirmation and full-scope enablement analysis because materially different arts and treatment interfaces may be involved. MPEP §2164 expressly frames enablement around whether the entire claimed scope is enabled without undue experimentation. (USPTO)
+
+Inventor-confirmation questionnaire
+
+Inventor Confirmation Questionnaire v0.1
+
+This is intentionally written to avoid prompting the inventors into adopting AI-generated conception. It asks for actual conception regarding:
+
+persistent pig identity and re-identification;
+
+definition of the local population/sounder;
+
+registry membership;
+
+“all local members present” logic;
+
+unknown pigs and active/inactive membership;
+
+specific versus genuinely species-selective toxicants;
+
+warfarin/KAPUT and sodium-nitrite conception history;
+
+reproductive-control agents/routes;
+
+genetic-modification mechanism;
+
+trough/feed/conditioning architecture;
+
+non-feed attractants;
+
+non-swine target animals;
+
+inventorship/contribution dates and supporting records; and
+
+prior/planned technical disclosures.
+
+You can complete it incrementally; prior-art work does not need to wait for it.
+
+Updated control records
+
+Updated Project Tracker
+
+Patent Drafting Master Control v0.5
+
+Project Status / Resume Protocol v0.5
+
+Project Roadmap v0.4
+
+The tracker now includes dedicated Figure-Spec Audit and Detailed Claim-Spec Audit sheets.
+
+For the system/software branches, I am continuing to audit functional language against disclosed concrete structures and algorithms. Current MPEP §2173 confirms that functional language is not inherently improper, but definiteness depends strongly on the surrounding disclosure; MPEP §2181 separately warns that generic placeholders coupled to function may invoke §112(f) where sufficient structure or acts are absent. (USPTO)
+
+Next steps for next run
+
+Resume → begin PAT-042: formal element-by-element prior-art claim charting.
+
+Start with Claims 1, 11, 21, and 121, because they frame the broad recognition, population-completeness, selective-toxicant, and trough/conditioning architecture.
+
+Expand from the already identified US10368539B2, US20210315186A1, and US20140261201A1 families.
+
+Build a reproducible USPTO Patent Public Search / Google Patents query and citation-family log.
+
+Then chart Claims 31, 41, 51, 61, 71, 81, 91, 101, 111, and 131.
+
+Integrate inventor-questionnaire answers whenever supplied without pausing the prior-art work.
+
+Rebuild the fossil-free canonical archive again at the next material checkpoint.
+
+Sources:
+
+https://www.uspto.gov/web/offices/pac/mpep/s2163.html",
+# Powered by ChatGPT Exporter (https://www.chatgptexporter.com)

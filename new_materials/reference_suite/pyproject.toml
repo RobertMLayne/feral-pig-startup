@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reference-suite"
+version = "0.1.0"
+description = "Local reference acquisition, provenance, citation, and procurement suite"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.optional-dependencies]
+render = ["playwright>=1.50"]
+pdf = ["pypdf>=5"]
+ocr = ["PyMuPDF>=1.25", "Pillow>=11", "pytesseract>=0.3.13"]
+
+[project.scripts]
+reference-suite = "reference_suite.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["reference_suite*"]

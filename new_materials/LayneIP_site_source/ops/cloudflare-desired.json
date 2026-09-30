@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "prepared": "2026-09-22",
+  "status": "Prepared only; no Cloudflare settings or DNS records have been changed by this workspace.",
+  "zones": ["layneip.com", "layneip.tech"],
+  "settings_candidates": {"tls_1_3": "on", "http2": "on", "http3": "on"},
+  "dns": [
+    {"zone":"layneip.com","type":"TXT","name":"_openai-site-verification.layneip.com","content":"openai-site-verification=U10i3rLvsk5CpTr12IcOiN2oNGym8u7wVcT1z4lPj60","ttl":300},
+    {"zone":"layneip.com","type":"TXT","name":"_cf-custom-hostname.layneip.com","content":"194c328c-12c3-4713-a1e8-0b2aa4b9632e","ttl":300},
+    {"zone":"layneip.com","type":"A","name":"layneip.com","content":"162.159.143.30","ttl":300,"proxied":false},
+    {"zone":"layneip.com","type":"A","name":"layneip.com","content":"172.66.3.26","ttl":300,"proxied":false},
+    {"zone":"layneip.com","type":"TXT","name":"_openai-site-verification.www.layneip.com","content":"openai-site-verification=coYs2lfq3-jEcpx187U36e10mGov_Y_MquU03_OZFvc","ttl":300},
+    {"zone":"layneip.com","type":"TXT","name":"_cf-custom-hostname.www.layneip.com","content":"5dc034c6-3a2a-43f5-9a47-5ec09426d730","ttl":300},
+    {"zone":"layneip.com","type":"CNAME","name":"www.layneip.com","content":"custom-domains.chatgpt.site","ttl":300,"proxied":false},
+    {"zone":"layneip.tech","type":"TXT","name":"_openai-site-verification.layneip.tech","content":"openai-site-verification=34QXF6KnqozgCINISOm8w0MgtNGOzI-e1_bdtw-HiaQ","ttl":300},
+    {"zone":"layneip.tech","type":"TXT","name":"_cf-custom-hostname.layneip.tech","content":"21f8a09c-1daf-408f-974c-033327362f9f","ttl":300},
+    {"zone":"layneip.tech","type":"A","name":"layneip.tech","content":"162.159.143.30","ttl":300,"proxied":false},
+    {"zone":"layneip.tech","type":"A","name":"layneip.tech","content":"172.66.3.26","ttl":300,"proxied":false},
+    {"zone":"layneip.tech","type":"TXT","name":"_openai-site-verification.www.layneip.tech","content":"openai-site-verification=wAJS-64F3gLnCurbae0GcfZGmn27kAmLCn7J1GEU-AY","ttl":300},
+    {"zone":"layneip.tech","type":"TXT","name":"_cf-custom-hostname.www.layneip.tech","content":"1552a1d2-e78f-49f0-b24e-43a7634d9c92","ttl":300},
+    {"zone":"layneip.tech","type":"CNAME","name":"www.layneip.tech","content":"custom-domains.chatgpt.site","ttl":300,"proxied":false}
+  ],
+  "manual_review": {
+    "ssl": "Prefer Full (strict) for customer-proxied hosts after checking each origin certificate. Sites custom-domain TLS is managed by the hosting provider.",
+    "min_tls_version": "Prefer TLS 1.2 or higher for modern website visitors; preserve any existing stronger policy and review other zone hosts first.",
+    "always_use_https": "Enable after all affected hostnames have working HTTPS; check existing redirect rules for loops.",
+    "dnssec": "Verify registrar and authoritative DNS state together before enabling or changing DS records.",
+    "hsts": "Only after HTTPS is stable. Do not enable includeSubDomains or preload until every relevant host is audited.",
+    "email": "Preserve MX, SPF, DKIM, DMARC, mail-host records and any email-routing settings. Confirm the actual mail provider before changing them.",
+    "caching": "Respect origin cache headers. Do not cache authenticated HTML, contact information, or private responses. Fingerprinted public assets may be cached when the host supports it.",
+    "waf": "Review existing managed rules and security events. Avoid broad blocking or challenges without evidence of abuse.",
+    "redirects": "Canonical .com and www routing require active host certificates and a verified host-aware redirect mechanism. Separate Insights and Systems deployments remain planned.",
+    "layneip.tech": "Inventory and preserve existing use and mail. The four Sites bindings now include both tech hostnames; review conflicts before adding their website records. Redirect to the com canonical origin only after both hostnames and certificates work.",
+    "account": "Verify MFA, recovery methods, least-privilege tokens, registrar lock, renewal settings and certificate/expiry alerts in the authenticated dashboard. No billing or account changes are automated."
+  }
+}

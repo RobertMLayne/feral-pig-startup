@@ -1,0 +1,6 @@
+# Preserve selected project records; keep disposable caches and local settings private.
+__pycache__/
+*.pyc
+*.pyo
+/.codex/
+/.vscode/

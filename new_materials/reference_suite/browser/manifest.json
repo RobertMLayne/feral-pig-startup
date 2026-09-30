@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Reference Suite Intake",
+  "version": "0.1.0",
+  "description": "Send a selected reference identifier to a local Reference Suite run.",
+  "permissions": ["storage", "contextMenus"],
+  "host_permissions": ["http://127.0.0.1:8765/*"],
+  "background": {"service_worker": "background.js"},
+  "action": {"default_popup": "popup.html"}
+}

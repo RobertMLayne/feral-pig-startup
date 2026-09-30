@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://reference-suite.local/schemas/job-v1.json",
+  "title": "Reference Suite Job v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["provider", "operation", "value"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "provider": {"enum": ["openalex", "uspto", "web", "local"]},
+    "operation": {"type": "string"},
+    "value": {"type": "string", "minLength": 1, "maxLength": 4096},
+    "dataset": {"type": "string", "pattern": "^[A-Za-z0-9_-]{1,64}$", "default": "references"},
+    "max_results": {"type": "integer", "minimum": 1, "maximum": 10000, "default": 25},
+    "citation_depth": {"type": "integer", "minimum": 0, "maximum": 1, "default": 0},
+    "download_files": {"type": "boolean", "default": false},
+    "allow_hosts": {"type": "array", "items": {"type": "string", "pattern": "^[A-Za-z0-9.-]+$"}, "uniqueItems": true, "default": []},
+    "max_depth": {"type": "integer", "minimum": 0, "maximum": 3, "default": 1},
+    "render_js": {"type": "boolean", "default": false},
+    "render_pdf": {"type": "boolean", "default": false},
+    "content_selector": {"type": "string", "maxLength": 256, "default": ""}
+  },
+  "allOf": [
+    {"if": {"properties": {"provider": {"not": {"const": "local"}}}, "required": ["provider"]},
+     "then": {"properties": {"max_results": {"maximum": 100}}}}
+  ]
+}
